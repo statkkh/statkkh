@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 
 ![Git](https://img.shields.io/badge/:badgeContent)
+skill
+springboot, java, mysql
 
-springboot
-
-java
-
-mysql
+collaboration tool
+github, notion
