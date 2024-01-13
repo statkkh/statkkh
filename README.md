@@ -5,7 +5,7 @@
 
  
 
- [Git](https://img.shields.io/badge/:badgeContent)
+[Git](https://img.shields.io/badge/:badgeContent)
  
 skill
 springboot, java, mysql
